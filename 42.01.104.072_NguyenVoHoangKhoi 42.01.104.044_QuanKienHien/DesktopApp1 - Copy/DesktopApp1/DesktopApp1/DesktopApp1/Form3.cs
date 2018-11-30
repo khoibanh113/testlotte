@@ -63,7 +63,7 @@ namespace DesktopApp1
             timer1.Interval = tocdo;
         }
 
-        private void buttontru_Click(object sender, EventArgs e)
+        private void buttontru_Click(object sender, EventArgs efwefq efsdfsdfasdf 
         {
             tocdo += 500;
             timer1.Interval = tocdo;
