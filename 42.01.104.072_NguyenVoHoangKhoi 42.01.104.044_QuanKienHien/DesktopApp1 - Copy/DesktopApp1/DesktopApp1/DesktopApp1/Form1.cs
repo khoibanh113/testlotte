@@ -221,13 +221,13 @@ namespace DesktopApp1
         }
         
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void Form1_Load(object sender, fwefwqefasdEventArgs e)
         {
             if (abcd1 == "tuantu")
             {
                 button4.Visible = false;
-            }
-            else if (abcd1 == "nhiphan")  { button1.Visible = false; }
+            }f
+            else if (abcd1 == "nhiphan")  { buttosadfasdfasdfn1.Visible = false; }
         }
 
         private void button3_Click(object sender, EventArgs e)

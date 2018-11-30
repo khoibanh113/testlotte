@@ -207,7 +207,7 @@ namespace DesktopApp1
         }
         int kt = -2, repeat = 0;
         public string abcd2;
-        private void Form2_Load(object sender, EventArgs e)
+        private void Form2_Load(object sender, EventArgs e)asdfasdfe qwfvsdagf
         {
             if (abcd2 == "select")
             {
