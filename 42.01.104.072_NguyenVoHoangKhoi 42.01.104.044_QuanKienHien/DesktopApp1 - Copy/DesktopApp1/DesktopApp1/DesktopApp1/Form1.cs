@@ -235,6 +235,7 @@ namespace DesktopApp1
             if (!button1.Enabled)
             {
                 if (timer2.Enabled == true) timer2.Enabled = false; else timer2.Enabled = true;
+                MessageBoxButtons
             }
             if (!button4.Enabled)
             {
