@@ -1,0 +1,64 @@
+C:\Users\ADMIN\source\repos\DesktopApp1\DesktopApp1\bin\Debug\DesktopApp1.exe.config
+C:\Users\ADMIN\source\repos\DesktopApp1\DesktopApp1\bin\Debug\DesktopApp1.exe
+C:\Users\ADMIN\source\repos\DesktopApp1\DesktopApp1\bin\Debug\DesktopApp1.pdb
+C:\Users\ADMIN\source\repos\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.csprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.exe
+C:\Users\ADMIN\source\repos\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.pdb
+C:\Users\ADMIN\source\repos\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.Form1.resources
+C:\Users\ADMIN\Desktop\DesktopApp1\DesktopApp1\bin\Debug\DesktopApp1.exe.config
+C:\Users\ADMIN\Desktop\DesktopApp1\DesktopApp1\bin\Debug\DesktopApp1.exe
+C:\Users\ADMIN\Desktop\DesktopApp1\DesktopApp1\bin\Debug\DesktopApp1.pdb
+C:\Users\ADMIN\Desktop\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.Form1.resources
+C:\Users\ADMIN\Desktop\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.exe
+C:\Users\ADMIN\Desktop\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.pdb
+C:\Users\ADMIN\Desktop\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.csprojAssemblyReference.cache
+C:\Users\MAY\Desktop\DesktopApp1\DesktopApp1\DesktopApp1\bin\Debug\DesktopApp1.exe.config
+C:\Users\MAY\Desktop\DesktopApp1\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.exe
+C:\Users\MAY\Desktop\DesktopApp1\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.pdb
+C:\Users\MAY\Desktop\DesktopApp1\DesktopApp1\DesktopApp1\bin\Debug\DesktopApp1.exe
+C:\Users\MAY\Desktop\DesktopApp1\DesktopApp1\DesktopApp1\bin\Debug\DesktopApp1.pdb
+C:\Users\MAY\Desktop\DesktopApp1\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.Form1.resources
+C:\Users\MAY\Desktop\DesktopApp1\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.Properties.Resources.resources
+C:\Users\MAY\Desktop\DesktopApp1\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Desktop\DesktopApp1\DesktopApp1\DesktopApp1\DesktopApp1\bin\Debug\DesktopApp1.exe.config
+C:\Users\ADMIN\Desktop\DesktopApp1\DesktopApp1\DesktopApp1\DesktopApp1\bin\Debug\DesktopApp1.exe
+C:\Users\ADMIN\Desktop\DesktopApp1\DesktopApp1\DesktopApp1\DesktopApp1\bin\Debug\DesktopApp1.pdb
+C:\Users\ADMIN\Desktop\DesktopApp1\DesktopApp1\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\DesktopApp1\DesktopApp1\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.Form1.resources
+C:\Users\ADMIN\Desktop\DesktopApp1\DesktopApp1\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\DesktopApp1\DesktopApp1\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\DesktopApp1\DesktopApp1\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\DesktopApp1\DesktopApp1\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.exe
+C:\Users\ADMIN\Desktop\DesktopApp1\DesktopApp1\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.pdb
+C:\Users\ASUS\Desktop\DesktopApp1\DesktopApp1\DesktopApp1\DesktopApp1\bin\Debug\DesktopApp1.exe.config
+C:\Users\ASUS\Desktop\DesktopApp1\DesktopApp1\DesktopApp1\DesktopApp1\bin\Debug\DesktopApp1.exe
+C:\Users\ASUS\Desktop\DesktopApp1\DesktopApp1\DesktopApp1\DesktopApp1\bin\Debug\DesktopApp1.pdb
+C:\Users\ASUS\Desktop\DesktopApp1\DesktopApp1\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.Form1.resources
+C:\Users\ASUS\Desktop\DesktopApp1\DesktopApp1\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.Form2.resources
+C:\Users\ASUS\Desktop\DesktopApp1\DesktopApp1\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.Form3.resources
+C:\Users\ASUS\Desktop\DesktopApp1\DesktopApp1\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.Properties.Resources.resources
+C:\Users\ASUS\Desktop\DesktopApp1\DesktopApp1\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\DesktopApp1\DesktopApp1\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\DesktopApp1\DesktopApp1\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.exe
+C:\Users\ASUS\Desktop\DesktopApp1\DesktopApp1\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.pdb
+C:\Users\ASUS\Desktop\DesktopApp1\DesktopApp1\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\DesktopApp1\DesktopApp1\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.Form4.resources
+C:\Users\ASUS\Desktop\42.01.104.072_NguyenVoHoangKhoi 42.01.104.044_QuanKienHien\DesktopApp1 - Copy\DesktopApp1\DesktopApp1\DesktopApp1\bin\Debug\DesktopApp1.exe.config
+C:\Users\ASUS\Desktop\42.01.104.072_NguyenVoHoangKhoi 42.01.104.044_QuanKienHien\DesktopApp1 - Copy\DesktopApp1\DesktopApp1\DesktopApp1\bin\Debug\DesktopApp1.exe
+C:\Users\ASUS\Desktop\42.01.104.072_NguyenVoHoangKhoi 42.01.104.044_QuanKienHien\DesktopApp1 - Copy\DesktopApp1\DesktopApp1\DesktopApp1\bin\Debug\DesktopApp1.pdb
+C:\Users\ASUS\Desktop\42.01.104.072_NguyenVoHoangKhoi 42.01.104.044_QuanKienHien\DesktopApp1 - Copy\DesktopApp1\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\42.01.104.072_NguyenVoHoangKhoi 42.01.104.044_QuanKienHien\DesktopApp1 - Copy\DesktopApp1\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.Form1.resources
+C:\Users\ASUS\Desktop\42.01.104.072_NguyenVoHoangKhoi 42.01.104.044_QuanKienHien\DesktopApp1 - Copy\DesktopApp1\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.Form2.resources
+C:\Users\ASUS\Desktop\42.01.104.072_NguyenVoHoangKhoi 42.01.104.044_QuanKienHien\DesktopApp1 - Copy\DesktopApp1\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.Form3.resources
+C:\Users\ASUS\Desktop\42.01.104.072_NguyenVoHoangKhoi 42.01.104.044_QuanKienHien\DesktopApp1 - Copy\DesktopApp1\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.Form4.resources
+C:\Users\ASUS\Desktop\42.01.104.072_NguyenVoHoangKhoi 42.01.104.044_QuanKienHien\DesktopApp1 - Copy\DesktopApp1\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.Properties.Resources.resources
+C:\Users\ASUS\Desktop\42.01.104.072_NguyenVoHoangKhoi 42.01.104.044_QuanKienHien\DesktopApp1 - Copy\DesktopApp1\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\42.01.104.072_NguyenVoHoangKhoi 42.01.104.044_QuanKienHien\DesktopApp1 - Copy\DesktopApp1\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\42.01.104.072_NguyenVoHoangKhoi 42.01.104.044_QuanKienHien\DesktopApp1 - Copy\DesktopApp1\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.exe
+C:\Users\ASUS\Desktop\42.01.104.072_NguyenVoHoangKhoi 42.01.104.044_QuanKienHien\DesktopApp1 - Copy\DesktopApp1\DesktopApp1\DesktopApp1\obj\Debug\DesktopApp1.pdb
